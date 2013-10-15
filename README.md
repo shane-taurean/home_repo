@@ -55,9 +55,18 @@ def test():
     print hello
 ```
 
+syntax highlighted code
+
 ```python
 def test_2():
     print 'hello'
 ```
 
+```C
+#include <stdio.h>
+
+int main ( void ) {
+    return 0;
+}
+```
 

@@ -13,6 +13,16 @@ setext style H2 header
 > > nested block quote
 lazy part of block quotes
 
+Un-ordered list
+* Red
+* Green
+* Blue
+
++ apples
++ oranges
+- grapes
+- 
+
 released from block quote
 
 my first time using git

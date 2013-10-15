@@ -34,4 +34,9 @@ released from block quote
 
 This is [an example](http://example.com/ "Title") inline link
 
+This is [an example] [id1] reference-style link
+
 my first time using git
+
+[id1]: hello "optional title"
+

@@ -44,6 +44,9 @@ my first time using git
 `void main ( void ) { }`
 
 block code
-` #include<stdio.h>`
-` void main ( void ) { }`
+
+` 
+    #include<stdio.h>
+    void main ( void ) { }
+`
 

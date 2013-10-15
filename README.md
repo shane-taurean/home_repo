@@ -24,6 +24,12 @@ Un-ordered list
 - grapes
 - drapes
 
+ordered list
+1. one
+2. two
+3. three
+
+
 released from block quote
 
 my first time using git

@@ -45,8 +45,14 @@ my first time using git
 
 block code
 
-` 
     #include<stdio.h>
     void main ( void ) { }
-`
+
+block code 2
+
+```
+def test():
+    print hello
+```
+
 

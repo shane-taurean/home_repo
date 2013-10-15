@@ -20,8 +20,9 @@ Un-ordered list
 
 + apples
 + oranges
+
 - grapes
-- 
+- drapes
 
 released from block quote
 

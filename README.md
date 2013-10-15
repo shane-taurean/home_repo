@@ -32,4 +32,6 @@ ordered list
 
 released from block quote
 
+This is [an example](http://example.com/ "Title") inline link
+
 my first time using git

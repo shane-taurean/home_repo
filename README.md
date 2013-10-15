@@ -38,5 +38,5 @@ This is [an example] [id1] reference-style link
 
 my first time using git
 
-[id1]: hello "optional title"
+[id1]: https://github.com/shane-taurean/home_repo/ "my repo"
 

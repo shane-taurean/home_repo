@@ -55,4 +55,9 @@ def test():
     print hello
 ```
 
+```python
+def test_2():
+    print 'hello'
+```
+
 
